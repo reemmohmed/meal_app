@@ -56,3 +56,8 @@ flutter pub get
 
 # 4. Run the app
 flutter run
+> This app UI was implemented based on this Figma design:
+
+
+![Figma Design Preview](https://www.figma.com/design/tRp1roA9GIDFgUT56A9wWX/Task-20-7?node-id=0-1&t=Z1SsjxrDl9B1PWKp-1)
+
