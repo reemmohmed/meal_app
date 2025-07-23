@@ -6,11 +6,11 @@ A new Flutter project.
 
 # 🍽️ Meal App - Flutter
 
-**Meal App** is a beautifully designed Flutter application that displays a list of meals fetched from a public API. It includes features such as authentication, favorites, search, and offline storage. The app is built based on a modern UI design from Figma and follows clean architecture principles.
+**Meal App** is a beautifully designed Flutter application that displays a list of meals fetched from a public API. It includes features such as authentication, search, and offline storage. The app is built based on a modern UI design from Figma and follows clean architecture principles.
 
 ## 📱 Screenshots
 
-> 🔜 (Add screenshots here: Splash, Home, Details, Saved, Search)
+> 🔜 (Add screenshots here: Splash,auth,  Home,  Saved,notification, profile)
 
 ---
 
@@ -58,6 +58,6 @@ flutter pub get
 flutter run
 > This app UI was implemented based on this Figma design:
 
+![Figma Design Preview](https://i.postimg.cc/rmGQz6ZD/156dbecc-fd63-411d-a0fd-2aec90d50375.png)
 
-![Figma Design Preview](https://www.figma.com/design/tRp1roA9GIDFgUT56A9wWX/Task-20-7?node-id=0-1&t=Z1SsjxrDl9B1PWKp-1)
 
