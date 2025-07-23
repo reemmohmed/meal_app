@@ -4,13 +4,55 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+# 🍽️ Meal App - Flutter
 
-A few resources to get you started if this is your first Flutter project:
+**Meal App** is a beautifully designed Flutter application that displays a list of meals fetched from a public API. It includes features such as authentication, favorites, search, and offline storage. The app is built based on a modern UI design from Figma and follows clean architecture principles.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📱 Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+> 🔜 (Add screenshots here: Splash, Home, Details, Saved, Search)
+
+---
+
+## ✨ Features
+
+- 🔐 Firebase Email/Password Authentication (Sign In & Sign Up)
+- 🍲 Browse meals with images and titles
+- 🔎 Search meals by name or category
+- ❤️ Save favorite meals locally using SharedPreferences
+- 📦 Pagination to load more meals on scroll
+- 💡 Fully responsive UI across all screen sizes
+- 🧠 State management using Provider
+- ✅ Clean and scalable project architecture
+
+---
+
+## 🔧 Technologies Used
+
+| Technology               | Purpose                                |
+|--------------------------|----------------------------------------|
+| **Flutter**              | Mobile UI framework                    |
+| **Firebase Auth**        | User authentication                    |
+| **TheMealDB API**        | Fetching meal data                     |
+| **Provider**             | State management                       |
+| **SharedPreferences**    | Local storage                          |
+| **Dio**                  | API handling                           |
+| **flutter_screenutil**   | Responsive design                      |
+| **cached_network_image** | Efficient image loading & caching      |
+
+---
+
+## 🚀 Getting Started
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/yourusername/meal_app.git
+
+# 2. Navigate to the project directory
+cd meal_app
+
+# 3. Install dependencies
+flutter pub get
+
+# 4. Run the app
+flutter run
